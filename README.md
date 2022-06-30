@@ -1,4 +1,4 @@
-[![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/company-gif.gif)]
+![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/company-gif.gif)
 <h1 align="center">Hi 👋, I'm Vijay Prakash</h1>
 <h3 align="center">A passionate Java Back-end developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
