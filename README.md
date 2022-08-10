@@ -1,8 +1,7 @@
 ![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/company-gif.gif)
 <h1 align="center">Hi 👋, I'm Vijay Prakash</h1>
 <h3 align="center">A passionate Java Back-end developer from India</h3>
-<p> Aspiring Java Back-end developer proficient in the back-end and Capable of writing production-ready code using HTML,CSS,Java-Script,Java,DSA
-Interested in coding and am strongly interested in obtaining a software developer position to enhancemy knowledge and skill.</p>
+<p>I'm a Passionate aspiring Java Back-End developer shaped by Masai school's intensive and immersive learning program....I am Capable of writing production-ready code and Look forward to joining a company where I will be able to contribute towards individual and company growth.</p>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-prakash146246&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-prakash146246" /> </p>
 
