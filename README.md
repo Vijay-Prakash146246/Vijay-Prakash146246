@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@vijayprakash980" target="blank"><img src="https://img.shields.io/twitter/follow/@vijayprakash980?logo=twitter&style=for-the-badge" alt="@vijayprakash980" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@vijayprakash980" target="blank"><img src="https://img.shields.io/twitter/follow/vijayprakash980?logo=twitter&style=for-the-badge" alt="@vijayprakash980" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@vijayprakash980" target="blank"><img src="https://img.shields.io/twitter/follow?logo=twitter&style=for-the-badge" alt="@vijayprakash980" /></a> </p>
 
 - 🔭 I’m currently pursuing **JAVA Back-End**
 
